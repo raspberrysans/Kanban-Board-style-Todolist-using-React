@@ -4,6 +4,7 @@
 
 ### Note: This is a web application so it is designed to work well only with a large screen, not on smartphones unfortunately. Please open with a laptop only!
 
-<img src="https://github.com/sanz1475/Kanban-Board-style-Todolist-using-React/blob/main/Screen%20Recording%202021-09-01%20at%2011.35.59%20PM.gif" />
+<img src="https://github.com/sanz1475/Kanban-Board-style-Todolist-using-React/blob/main/kanbanboard.gif" />
 
-#### Drag and drop style to-do list made using react-beautiful-dnd
+#### Drag and drop style to-do list made using <i> react-beautiful-dnd <i/>
+##### Deployed using netlify
