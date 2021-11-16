@@ -8,3 +8,6 @@
 
 #### Drag and drop style to-do list made using <i> react-beautiful-dnd <i/>
 ##### Deployed using netlify
+  
+  ### To-do
+  - Firebase backend to store the to-do list data
